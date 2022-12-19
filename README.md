@@ -1,3 +1,3 @@
 # Image-Converter-ColorToGrayScale
 
-# Run this file in google colab
+Run this file in google colab
